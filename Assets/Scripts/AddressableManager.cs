@@ -11,13 +11,7 @@ public class AddressableManager : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(InitAddressable());
-    }
-
-    IEnumerator InitAddressable()
-    {
-        var init = Addressables.InitializeAsync();
-        yield return init;
+        Button_SpawnObject();
     }
 
     public void Button_SpawnObject()

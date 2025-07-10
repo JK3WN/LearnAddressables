@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: a1b63dead8b6571499955fa7f8cbc8e2
   m_currentHash:
     serializedVersion: 2
-    Hash: 5c067b739e3112f7aeda21e4f73b9970
+    Hash: 835e8b6bb073c7f7267300a2577765f1
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
@@ -72,7 +72,7 @@ MonoBehaviour:
       - m_Id: 85bef34d546d34041a2d31315089cd2b
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: aba934fefaf4b484db2fa8462ef83c5b
-        m_Value: <undefined>
+        m_Value: 'https://learnaddressables.s3.ap-southeast-2.amazonaws.com/[BuildTarget]'
       - m_Id: c676563d47138de4689e5054afeb7a5f
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
       - m_Id: ce122b466fdcca7459a0e704f7ec4e2c
